@@ -37,6 +37,22 @@ public class Inventory {
     }
 
     public void updateQuality() {
+
+        Context context1 = new Context(new QltDexterityVest());
+        Context context2 = new Context(new QltAgedBrie());
+        Context context3 = new Context(new QltElixir());
+        Context context4 = new Context(new QltSulfuras());
+        Context context5 = new Context(new QltBackstage());
+        Context context6 = new Context(new QltConjured());
+
+        context1.executeStrategy(items[0]);
+        context2.executeStrategy(items[1]);
+        context3.executeStrategy(items[2]);
+        context4.executeStrategy(items[3]);
+        context5.executeStrategy(items[4]);
+        context6.executeStrategy(items[5]);
+
+
         /*for (int i = 0; i < items.length; i++) {
             if (items[i].getName() != "Aged Brie"
                     && items[i].getName() != "Backstage passes to a TAFKAL80ETC concert") {

@@ -1,6 +1,6 @@
 package edu.insightr.gildedrose;
 
-public class Item implements IVisitable{
+public class Item {
 
     private String name;
     private int sellIn;
@@ -47,7 +47,4 @@ public class Item implements IVisitable{
                 '}';
     }
 
-    public void accept(IVisitor visitor){
-        visitor.visit(this);
-    }
 }
