@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ea46727b-ddd0-4d6f-a995-bf99b7b52c48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/LowerQult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/StrategySolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/UpperQult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltBackstage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltBackstage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltConjured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltConjured.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltSulfuras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltSulfuras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/insightr/gildedrose/QltSulfuras.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/insightr/gildedrose/QltSulfuras.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +14,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GildedRoseJavaKata$InventoryTest.ic" NAME="InventoryTest Coverage Results" MODIFIED="1543319363611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.insightr.gildedrose.*</FILTER>
+    </SUITE>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1406715116">
@@ -47,23 +51,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2609" />
+          <entry key="java" value="2639" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2609" />
+          <entry key="JAVA" value="2639" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/insightr/gildedrose/InventoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="152">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltBackstage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="204">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -93,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltConjured.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -128,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltSulfuras.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -137,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+            <state relative-caret-position="170">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
               <folding>
                 <element signature="e#647#648#0" expanded="true" />
                 <element signature="e#680#681#0" expanded="true" />
@@ -191,17 +195,17 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/UpperQult.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Context.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltAgedBrie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltBackstage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltConjured.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltDexterityVest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltElixir.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltSulfuras.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltSulfuras.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltConjured.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltBackstage.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1358" />
     <option name="width" value="1390" />
     <option name="height" value="1756" />
@@ -274,7 +278,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543319103187" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543319737596" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -320,13 +324,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InventoryTest.testBackstagePasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GildedRoseJavaKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.insightr.gildedrose.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.insightr.gildedrose" />
+      <option name="MAIN_CLASS_NAME" value="edu.insightr.gildedrose.InventoryTest" />
+      <option name="METHOD_NAME" value="testBackstagePasses" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.InventoryTest" />
       <item itemvalue="Application.Inventory" />
+      <item itemvalue="JUnit.InventoryTest.testBackstagePasses" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.InventoryTest" />
+        <item itemvalue="JUnit.InventoryTest.testBackstagePasses" />
         <item itemvalue="Application.Inventory" />
       </list>
     </recent_temporary>
@@ -357,9 +379,28 @@
     <history-entry file="InventoryTest - 2018.11.27 at 12h 44m 53s.xml">
       <configuration name="InventoryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="InventoryTest - 2018.11.27 at 12h 47m 30s.xml">
+      <configuration name="InventoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InventoryTest - 2018.11.27 at 12h 49m 32s.xml">
+      <configuration name="InventoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InventoryTest - 2018.11.27 at 12h 50m 51s.xml">
+      <configuration name="InventoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InventoryTest - 2018.11.27 at 12h 51m 47s.xml">
+      <configuration name="InventoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InventoryTest_testBackstagePasses - 2018.11.27 at 12h 54m 12s.xml">
+      <configuration name="InventoryTest.testBackstagePasses" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InventoryTest - 2018.11.27 at 12h 54m 41s.xml">
+      <configuration name="InventoryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15570673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -379,6 +420,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891247" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32955405" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -447,20 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltBackstage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltConjured.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltDexterityVest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -489,24 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltSulfuras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-          <folding>
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
@@ -514,13 +524,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltSulfuras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltConjured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/insightr/gildedrose/InventoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="152">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/QltBackstage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
     </entry>

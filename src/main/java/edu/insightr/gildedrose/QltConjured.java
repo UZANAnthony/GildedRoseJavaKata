@@ -5,7 +5,7 @@ public class QltConjured implements Strategy{
         if(i.getQuality() > 0){
             i.setQuality(i.getQuality() - 2);
             if (i.getSellIn() < 0){
-                i.setQuality(i.getQuality() - 1);
+                i.setQuality(i.getQuality() - 2);
             }
         }
     }
