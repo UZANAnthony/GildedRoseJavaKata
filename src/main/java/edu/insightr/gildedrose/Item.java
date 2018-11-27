@@ -46,4 +46,8 @@ public class Item {
                 ", quality=" + quality +
                 '}';
     }
+
+    public void update(){
+        quality -= 1;
+    }
 }

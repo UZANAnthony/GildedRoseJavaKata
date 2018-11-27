@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea46727b-ddd0-4d6f-a995-bf99b7b52c48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GildedRoseJavaKata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/AgedBrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/AgedBrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Backstage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Backstage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Conjured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Conjured.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/DexterityVest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/DexterityVest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Elixir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Elixir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Sulfuras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Sulfuras.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,12 +49,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1839" />
+          <entry key="java" value="2209" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1839" />
+          <entry key="JAVA" value="2209" />
         </counts>
       </usages-collector>
     </session>
@@ -75,17 +76,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="390">
+              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+              <folding>
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#981#982#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="220">
+              <caret line="45" column="26" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="26" />
+              <folding>
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/DexterityVest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="e#138#139#0" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
@@ -106,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/AgedBrie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="e#128#129#0" expanded="true" />
                 <element signature="e#172#173#0" expanded="true" />
@@ -119,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Elixir.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="e#124#125#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
@@ -129,11 +138,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Sulfuras.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding>
                 <element signature="e#128#129#0" expanded="true" />
                 <element signature="e#172#173#0" expanded="true" />
@@ -145,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Backstage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="323">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
                 <element signature="e#130#131#0" expanded="true" />
                 <element signature="e#174#175#0" expanded="true" />
@@ -158,8 +167,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Conjured.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="e#128#129#0" expanded="true" />
                 <element signature="e#172#173#0" expanded="true" />
@@ -190,20 +199,21 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/IVisitable.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/DextirityVest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/DebugVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/AgedBrie.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Backstage.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Conjured.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/DexterityVest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Elixir.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Sulfuras.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+    <option name="x" value="868" />
+    <option name="y" value="-32" />
     <option name="width" value="1390" />
     <option name="height" value="1756" />
   </component>
@@ -276,7 +286,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543324751670" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543325788439" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -329,8 +339,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.InventoryTest" />
-        <item itemvalue="JUnit.InventoryTest" />
         <item itemvalue="Application.Inventory" />
+        <item itemvalue="JUnit.InventoryTest" />
         <item itemvalue="JUnit.InventoryTest" />
         <item itemvalue="Application.Inventory" />
       </list>
@@ -388,7 +398,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5011338" side_tool="true" visible="true" weight="0.32891247" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5011338" side_tool="true" weight="0.32891247" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -423,22 +433,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="390">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding>
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/AgedBrie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#172#173#0" expanded="true" />
@@ -448,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Backstage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#174#175#0" expanded="true" />
@@ -459,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Conjured.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#172#173#0" expanded="true" />
@@ -470,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/DexterityVest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
             <element signature="e#182#183#0" expanded="true" />
@@ -481,8 +488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Elixir.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="e#124#125#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
@@ -492,11 +499,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Sulfuras.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding>
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/insightr/gildedrose/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
           </folding>
         </state>
       </provider>
