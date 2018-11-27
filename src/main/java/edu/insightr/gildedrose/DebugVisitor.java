@@ -22,7 +22,7 @@ public class DebugVisitor implements IVisitor{
         if (o.getQuality() < 50) {
             if (o.getSellIn() < 11) {
                 if (o.getQuality() < 50) {
-                    o.setQuality(o.getQuality() + 1);
+                    o.setQuality(o.getQuality() + 2);
                 }
             }
             if (o.getSellIn() < 6) {
@@ -40,7 +40,7 @@ public class DebugVisitor implements IVisitor{
         if(o.getQuality() > 0){
             o.setQuality(o.getQuality() - 2);
             if (o.getSellIn() < 0){
-                o.setQuality(o.getQuality() - 1);
+                o.setQuality(o.getQuality() - 2);
             }
         }
     }
@@ -64,7 +64,8 @@ public class DebugVisitor implements IVisitor{
     }
 
     public void visit(Sulfuras o){
-        o.setSellIn(o.getSellIn() - o.getSellIn());
+        o.setQuality(80);
+        o.setSellIn(0);
     }
 
     public void visit(IVisitable o){
