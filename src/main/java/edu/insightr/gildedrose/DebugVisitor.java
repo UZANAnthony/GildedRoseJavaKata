@@ -10,7 +10,7 @@ interface IVisitor{
     void visit(Sulfuras o);
 }
 
-public abstract class DebugVisitor implements IVisitor{
+public class DebugVisitor implements IVisitor{
 
     public void visit(AgedBrie o){
         if (o.getQuality() < 50) {
@@ -65,6 +65,10 @@ public abstract class DebugVisitor implements IVisitor{
 
     public void visit(Sulfuras o){
         o.setSellIn(o.getSellIn() - o.getSellIn());
+    }
+
+    public void visit(IVisitable o){
+        System.out.println("Test");
     }
 
 }

@@ -1,5 +1,5 @@
 package edu.insightr.gildedrose;
 
 interface IVisitable {
-    void accept(IVisotor visitor);
+    void accept(IVisitor visitor);
 }
